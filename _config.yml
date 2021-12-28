@@ -13,19 +13,21 @@
 # you will see them accessed via {{ site.title }}, {{ site.email }}, and so on.
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
-title: Amit Chaudhary
-email: meamitkc@gmail.com
+title: Jivnesh Sandhan
+email: jivneshsandhan@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
-  I am a Machine Learning Engineer applying research to products.
-  I explain machine learning concepts using diagrams, animations and intuition
+  Hi I'm Jivnesh sandhan. I am a fourth year Ph.D. at the Department of Electrical Engineering, IIT Kanpur.
+  I completed my dual degree in Mathematics department of IIT Kanpur in 2018.
+#   I am a Machine Learning Engineer applying research to products.
+#   I explain machine learning concepts using diagrams, animations and intuition
 url: "https://amitness.com"
-twitter_username: amitness
-github_username: amitness
+twitter_username: jivnesh
+github_username: Jivnesh
 minimal_mistakes_skin: default
 search: true
 
 twitter:
-  username: "amitness"
+  username: "jivnesh"
 
 # Build settings
 markdown: kramdown
@@ -36,7 +38,7 @@ remote_theme: mmistakes/minimal-mistakes
 permalink: /:year/:month/:title/
 paginate: 5 # amount of posts to show
 paginate_path: /page:num/
-timezone: Asia/Kathmandu
+timezone: Asia/Delhi
 
 include:
   - _pages
@@ -63,25 +65,26 @@ plugins:
   - jekyll-include-cache
 
 author:
-  name   : "Amit Chaudhary"
+  name   : "Jivnesh Sandhan"
   avatar : "/images/bio-photo.jpg"
-  bio    : "Research && Engineering"
+#   bio    : "Research && Engineering"
+  bio    : "Research Scholar"
   links:
     - label: "Twitter"
       icon: "fab fa-fw fa-twitter-square"
-      url: "https://twitter.com/amitness"
+      url: "https://twitter.com/jivnesh"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
-      url: "https://github.com/amitness"
+      url: "https://github.com/Jivnesh"
     - label: "Linkedin"
       icon: "fab fa-fw fa-linkedin"
-      url: "https://www.linkedin.com/in/amitness"
-    - label: "Subscribe"
-      icon: "fas fa-fw fa-envelope"
-      url: "https://www.getrevue.co/profile/amitness"
-    - label: "Support"
-      icon: "fas fa-fw fa-mug-hot"
-      url: "https://www.buymeacoffee.com/amitness"
+      url: "https://www.linkedin.com/in/jivnesh-sandhan-5ba02a9a"
+#     - label: "Subscribe"
+#       icon: "fas fa-fw fa-envelope"
+#       url: "https://www.getrevue.co/profile/amitness"
+#     - label: "Support"
+#       icon: "fas fa-fw fa-mug-hot"
+#       url: "https://www.buymeacoffee.com/amitness"
 #    - label: "Email"
 #      icon: "fab fa-envelope"
 #      url: "mailto:meamitkc@gmail.com"
@@ -93,10 +96,10 @@ footer:
   links:
     - label: "Twitter"
       icon: "fab fa-fw fa-twitter-square"
-      url: "http://bit.ly/amitnesstwitter"
+      url: "https://twitter.com/jivnesh"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
-      url: "https://github.com/amitness"
+      url: "https://github.com/Jivnesh"
 
 defaults:
   # _posts
@@ -135,17 +138,17 @@ comments:
   utterances:
     theme: "github-light" # "github-dark"
     issue_term: "pathname"
-repository: "amitness/blog-comments"
+repository: "agrawalanshul053/blog-comments"
 
 google_site_verification: "xETphZ5K1WItiUzH0YMRgZ8njDZlQMcGd_HD3zxGkuI"
 
 social:
   type:  Person
-  name:  Amit Chaudhary
+  name:  Anshul Agarwal
   links:
-    - "https://twitter.com/amitness"
-    - "https://www.facebook.com/amitify"
-    - "https://www.linkedin.com/in/amitness"
+    - "https://twitter.com/jivnesh"
+#     - "https://www.facebook.com/amitify"
+    - "https://www.linkedin.com/in/jivnesh-sandhan-5ba02a9a"
 
 analytics:
   provider: "google-gtag"
