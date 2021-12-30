@@ -140,7 +140,7 @@ comments:
     issue_term: "pathname"
 repository: "agrawalanshul053/blog-comments"
 
-google_site_verification: "xETphZ5K1WItiUzH0YMRgZ8njDZlQMcGd_HD3zxGkuI"
+# google_site_verification: "xETphZ5K1WItiUzH0YMRgZ8njDZlQMcGd_HD3zxGkuI"
 
 social:
   type:  Person
@@ -150,8 +150,8 @@ social:
 #     - "https://www.facebook.com/amitify"
     - "https://www.linkedin.com/in/jivnesh-sandhan-5ba02a9a"
 
-analytics:
-  provider: "google-gtag"
-  google:
-    tracking_id: "UA-98232022-1"
-    anonymize_ip: false
+# analytics:
+#   provider: "google-gtag"
+#   google:
+#     tracking_id: "UA-98232022-1"
+#     anonymize_ip: false
